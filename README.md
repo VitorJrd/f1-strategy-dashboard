@@ -1,12 +1,6 @@
 # 🏎️ F1 Strategy Dashboard
 
-![Python](https://img.shields.io/badge/Python-3.14-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.110-009688?style=flat&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-18-61DAFB?style=flat&logo=react&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=flat&logo=docker&logoColor=white)
-
-A full-stack F1 race strategy dashboard built with FastAPI, React, PostgreSQL, and Docker — visualizing lap times, tire strategies, and pit stops using the FastF1 API.
+An F1 race strategy dashboard built with FastAPI, React, PostgreSQL, and Docker that allows the visualization of lap times, tire strategies, and pit stops using the FastF1 API.
 
 ---
 
